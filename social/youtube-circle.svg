@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0.0835" y1="25.0835" x2="49.916" y2="25.0835">
+		<stop  offset="0.1322" style="stop-color:#FF0000"/>
+		<stop  offset="0.794" style="stop-color:#AF0000"/>
+	</linearGradient>
+	<circle fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" cx="25" cy="25.083" r="24.916"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M33.892,16.902h-8.891h-8.893c-1.926,0-3.487,1.562-3.487,3.487
+		v8.135c0,1.928,1.562,3.488,3.487,3.488h8.893h8.891c1.927,0,3.487-1.561,3.487-3.488V20.39
+		C37.379,18.464,35.818,16.902,33.892,16.902z M27.989,24.953c-0.132,0.069-4.288,2.24-4.376,2.321
+		c-0.087,0.082-0.121-0.06-0.121-0.06v-4.681c0,0,0.044-0.109,0.12-0.069c0.075,0.04,4.356,2.312,4.356,2.312
+		S28.121,24.883,27.989,24.953z"/>
+</g>
+</svg>
